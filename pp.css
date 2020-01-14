@@ -27,3 +27,14 @@ header #header-bar > .row {
     border-bottom: 2px solid var(--color-1); border-right: 2px solid var(--color-1) 
 
 }
+
+img[src="https://static-cdn.jtvnw.net/chat-badges/broadcaster.png"] {
+
+    content: url(file:///C:/Users/door/Desktop/xd.png);
+
+    width: 18px;
+
+    height: 18px;
+
+}
+
