@@ -1,18 +1,18 @@
 :root {
 
-  --color-0: #ffffff; /* box color */
+  --color-0: #00ffff; /* box color */
 
 
 
-  --color-1: #cceecc; /* */
+  --color-1: #87ceeb; /* */
 
-  --color-2: #e3f1af; /* */
+  --color-2: #00bfff; /* */
 
-  --color-3: #4bc84b; /* main color */
+  --color-3: #7fffd4; /* main color */
 
-  --color-4: #71da35; /* sub  color */
+  --color-4: #40d0d0; /* sub  color */
 
-  --color-5: #cff1af; /* */
+  --color-5: #00ced1; /* */
 
 }
 
