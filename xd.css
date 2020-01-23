@@ -108,7 +108,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area #viewers:after {
 
-    content: "방문중";    
+    content: "명 방문중";    
 
     cursor: text;
 
